@@ -19,7 +19,7 @@
 
 ## Chapter 3
 - [Chapter 3 Overview](https://kennedyscharfman.github.io/kennedy-repository/chapter3.html)
-- [Hands-On Practice](https://kennedyscharfman.github.io/kennedy-repository/chapter3-hop-all.html)
+- [Hands-On Practice](https://kennedyscharfman.github.io/kennedy-repository/chapter3-hop.html)
 - [Assignments](https://kennedyscharfman.github.io/kennedy-repository/chapter3-assignment.html)
 
 ---
